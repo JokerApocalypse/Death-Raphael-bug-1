@@ -11,36 +11,36 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉 Limule Solitarus"
-global.ytname = "YT: Deaethgun635"
-global.socialm = "GitHub: Limule3650"
+global.ownernomer = "242065858496"
+global.ownername = "🐉Allegra Furioza"
+global.ytname = "YT: JokerApocalypse"
+global.socialm = "GitHub: X-TECH-CORP"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉 Limule Solitarus' //owner name
-global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
+global.ownernumber = '242065858496','2250500107362'  //creator number
+global.ownername = '🐉Allegra Furioza 🔞' //owner name
+global.botname = 'RAPHAEL-V1' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'Limule Solitarus\n\nContact: +237698581946'
+global.packname = 'Allegra Furioza'
+global.author = 'Allegra Furioza\n\nContact: +242065858496'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Limule Solitarus Bot Inc."
+global.wm = "JokerApocalypse Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
+global.link = 'https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41'
 
 //custom prefix
 global.prefa = ['','!','.','#','&','•']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
